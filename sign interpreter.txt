@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>                               
+     <title>javascripts<?title>
+<head>
+<body>
+     <script>
+     var a new angry ("cut", "dog", 53, true)
+     </script>
+     </body>
+    
